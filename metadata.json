@@ -1,0 +1,6 @@
+{
+  "name": "Jurassic World Thailand: Thai Dinosaurs Virtual Safari",
+  "description": "สัมผัสประสบการณ์อุทยานไดโนเสาร์ไทยเสมือนจริงในรูปแบบ Jurassic World แผนผังนำเที่ยวด้วยรถทัวร์ สำรวจสายพันธุ์ดึกดำบรรพ์ พร้อมข้อมูลการติดต่อและคณะผู้จัดทำนิสิต",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
